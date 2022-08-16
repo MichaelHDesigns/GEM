@@ -1,0 +1,20 @@
+.navbar-brand img {
+  margin: 25px;
+}
+#services .img-fluid {
+  height: 300px;
+}
+.need-help {
+  font-size: 18px;
+}
+.need-help p, .need-help i, .hours {
+  color: white;
+}
+.we-believe .title {
+  font-weight: 600;
+}
+.we-believe ul {
+  display: table; 
+  font-size: 20px;
+  margin: 0 auto;
+}
